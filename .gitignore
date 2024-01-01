@@ -1,0 +1,8 @@
+# ignore all node_modules folders. They are typically not necessary for a repository
+node_modules
+
+# ignore all .env files. They are typically configuration files that contain sensitive information
+.env
+
+# ignore all node_modules folders. They are typically not necessary for a repository
+node_modules
