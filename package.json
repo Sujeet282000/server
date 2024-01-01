@@ -4,9 +4,9 @@
 	"description": "todo - your todos in cloud",
 	"main": "index.js",
 	"scripts": {
-		"start": "nodemon index.js",
+		"start": "node index.js",
 		"test": "echo \"Error: no test specified\" && exit 1",
-		"build": "tsc"
+		"build": "npm install"
 	},
 	"author": "Vidya Sagar Mehar",
 	"license": "ISC",
